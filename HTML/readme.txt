@@ -1,1 +1,1 @@
-html lang is the basic start up and i could say that you have 100% the lang
+## html[hypertext markup language] is the basic start up for fronet end web dev
