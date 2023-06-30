@@ -1,0 +1,1 @@
+html lang is the basic start up and i could say that you have 100% the lang

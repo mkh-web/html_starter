@@ -1,0 +1,35 @@
+ معنى السيمانتك انو يكون في معنى واضح للكود حقك بدل ما تكتب كلمة 
+    div في كل مكان
+برضوا عشان تفهم الشركة ايش قاعدة تشوف و توصل للبريفكت صفحة
+
+
+------------------------------------------
+The <article> element specifies independent, self-contained content.
+
+The <section> element defines section in a document.
+
+
+ممكن تشوفها مو مهمه بس ذي اشياء اساسية ضروري تتاكد منها في صفحتك قبل النشر
+
+--------------------------------------
+A <footer> element typically contains:
+
+authorship information
+copyright information
+contact information
+sitemap
+back to top links
+related documents
+--------------------------------
+The <nav> element defines a set of navigation links.
+
+Notice that NOT all links of a document should be inside a
+ <nav> element. The <nav> element is intended only for major block of navigation links
+ ---------------------------------
+ The <aside> element defines some content aside from the content it is placed in (like a sidebar)
+ ف الغالب لما تبغا تحط نوت بس اقين هذا كلوا عشان يصير فهم الكود حقك اسهل
+ --------
+ اضافة
+ <time>	Defines a date/time
+ <mark>	Defines marked/highlighted tex
+ <summary>	Defines a visible heading for a <details> elemen
